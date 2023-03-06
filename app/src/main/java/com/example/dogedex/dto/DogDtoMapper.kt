@@ -1,6 +1,6 @@
 package com.example.dogedex.dto
 
-import com.example.dogedex.Dog
+import com.example.dogedex.model.Dog
 
 class DogDtoMapper {
     private fun fromDogDTOToDogDomain(dogDto: DogDto): Dog {
