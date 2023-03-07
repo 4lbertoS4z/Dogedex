@@ -16,6 +16,7 @@ class DogDetailActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
        val binding = ActivityDogDetailBinding.inflate(layoutInflater)
                setContentView(binding.root)
 

@@ -23,6 +23,8 @@
     <string name="user_already_exists">User already exists</string>
     <string name="error_sign_in">Error sign in</string>
     <string name="error_sign_up">Error sign up</string>
+    <string name="there_was_an_error">There was an error</string>
+    <string name="wrong_user_or_password">Wrong user or password</string>
 
 
     <!-- TODO: Remove or change this placeholder text -->
